@@ -335,7 +335,23 @@ article h1{
     flex-direction: column;
     justify-content: space-around;
 }
+.footer-bottom{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    height: 46px;
 
+}
+.footer-bottom a{
+    align-self: flex-end;
+
+}
+.copyright{
+    color: black;
+    font-family: font-paragrafo-bold;
+    align-self: center;
+}
 
 
  
